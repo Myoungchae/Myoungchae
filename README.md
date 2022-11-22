@@ -8,4 +8,6 @@
 <h3 align="center">:rainbow:Tech Stack:rainbow:</h3>
 
 
-[MyoungChae's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyoungChae&show_icons=true)
+![MyoungChae's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyoungChae&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyoungChae)](https://github.com/anuraghazra/github-readme-stats)
+
